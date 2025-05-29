@@ -60,7 +60,7 @@ function Header({ account, chainId, setAccount, setChainId }) {
         <a href="#tokenomics">{t('header.tokenomics')}</a>
         <a href="#roadmap">{t('header.roadmap')}</a>
         <a href="#community">{t('header.community')}</a>
-        <a href="#jobs">{t('header.jobs')}</a>
+        <a href="#jobs">{t('Jobs')}</a>
         <a href="#blog">{t('header.blog')}</a>
         <button className={styles.cta}>{t('header.getStarted')}</button>
       </nav>
