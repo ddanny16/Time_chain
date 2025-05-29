@@ -17,6 +17,10 @@
   text-decoration: none;
 }
 
+.links a:hover {
+  text-decoration: underline;
+}
+
 .socials {
   display: flex;
   justify-content: center;
@@ -27,6 +31,10 @@
 .socials a {
   color: #FFFFFF;
   text-decoration: none;
+}
+
+.socials a:hover {
+  text-decoration: underline;
 }
 
 @media (max-width: 768px) {
