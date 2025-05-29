@@ -1,0 +1,31 @@
+{
+  "header": {
+    "home": "Inicio",
+    "howItWorks": "Cómo Funciona",
+    "features": "Características",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Hoja de Ruta",
+    "community": "Comunidad",
+    "blog": "Blog",
+    "getStarted": "Comenzar"
+  },
+  "hero": {
+    "title": "TimeChain: Empoderando Habilidades, No Carteras",
+    "subtitle": "Una plataforma descentralizada donde el tiempo es moneda. Intercambia habilidades, gana Time Tokens y únete a una comunidad global.",
+    "getStarted": "Comienza con TimeChain",
+    "explore": "Explora Cómo Funciona"
+  },
+  "howItWorks": {
+    "title": "Cómo Funciona TimeChain",
+    "individuals": "Para Individuos",
+    "individualsDesc": "Gana Time Tokens (TT) ofreciendo habilidades, gástalos en servicios o conviértelos en fiat/cripto.",
+    "organizations": "Para Organizaciones",
+    "organizationsDesc": "Contrata talento para tareas usando TT con emparejamiento automatizado y contratos inteligentes.",
+    "communities": "Para Comunidades",
+    "communitiesDesc": "Únete a una economía global de intercambio de habilidades con transacciones transparentes y sin confianza."
+  },
+  "features": {
+    "title": "¿Por Qué Elegir TimeChain?",
+    "discover": "Descubre Todas las Características"
+  }
+}

@@ -1,0 +1,40 @@
+.hero {
+  text-align: center;
+  background: linear-gradient(45deg, #1E3A8A, #14B8A6);
+  color: #FFFFFF;
+  padding: 100px 20px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.hero p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.primary {
+  background-color: #F97316;
+  color: #FFFFFF;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.secondary {
+  background-color: transparent;
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  padding: 15px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}

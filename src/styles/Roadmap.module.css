@@ -1,0 +1,27 @@
+.section {
+  text-align: center;
+}
+
+.timeline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.phase {
+  background-color: #F9FAFB;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  flex: 1 1 200px;
+}
+
+.cta {
+  background-color: #F97316;
+  color: #FFFFFF;
+  border: none;
+  padding: 15px 30px;
+  border-radius: 5px;
+  cursor: pointer;
+}

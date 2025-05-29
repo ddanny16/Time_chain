@@ -1,0 +1,18 @@
+{
+  "header": {
+    "home": "Home",
+    "howItWorks": "How It Works",
+    "features": "Features",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Roadmap",
+    "community": "Community",
+    "blog": "Blog",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "TimeChain: Empowering Skills, Not Wallets",
+    "subtitle": "A decentralized platform where time is currency. Trade skills, earn Time Tokens, and join a global community.",
+    "getStarted": "Get Started with TimeChain",
+    "explore": "Explore How It Works"
+  }
+}
