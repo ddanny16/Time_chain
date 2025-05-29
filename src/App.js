@@ -50,7 +50,7 @@ function App() {
         <Roadmap />
         <Community />
         {/* <JobListings /> */}
-        {/* <Footer /> */}
+        <Footer />
       </div>
     </I18nextProvider>
   );
