@@ -62,7 +62,7 @@ function Header({ account, chainId, setAccount, setChainId }) {
         <a href="#community">{t('header.community')}</a>
         <a href="#jobs">{t('Jobs')}</a>
         <a href="#blog">{t('header.blog')}</a>
-        <button className={styles.cta}>{t('header.getStarted')}</button>
+        {/* <button className={styles.cta}>{t('header.getStarted')}</button> */}
       </nav>
       <div className={styles.userActions}>
         <select
