@@ -49,8 +49,8 @@ function App() {
         <Tokenomics />
         <Roadmap />
         <Community />
-        <JobListings />
-        <Footer />
+        {/* <JobListings /> */}
+        {/* <Footer /> */}
       </div>
     </I18nextProvider>
   );

@@ -17,3 +17,9 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
+@media (max-width: 768px) {
+  .buttons {
+    flex-direction: column;
+  }
+}

@@ -21,3 +21,31 @@ function Tokenomics() {
 }
 
 export default Tokenomics;
+
+
+// import React from 'react';
+// import { useTranslation } from 'react-i18next';
+// import styles from '../styles/Tokenomics.module.css';
+
+// function Tokenomics() {
+//   const { t } = useTranslation();
+
+//   return (
+//     <section id="tokenomics" className={styles.section}>
+//       <h2>{t('tokenomics.title')}</h2>
+//       <div className={styles.grid}>
+//         <div className={styles.card}>
+//           <h3>{t('tokenomics.tt')}</h3>
+//           <p>{t('tokenomics.ttDesc')}</p>
+//         </div>
+//         <div className={styles.card}>
+//           <h3>{t('tokenomics.gt')}</h3>
+//           <p>{t('tokenomics.gtDesc')}</p>
+//         </div>
+//       </div>
+//       <button className={styles.cta}>{t('tokenomics.learnMore')}</button>
+//     </section>
+//   );
+// }
+
+// export default Tokenomics;

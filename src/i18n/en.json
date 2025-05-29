@@ -14,5 +14,64 @@
     "subtitle": "A decentralized platform where time is currency. Trade skills, earn Time Tokens, and join a global community.",
     "getStarted": "Get Started with TimeChain",
     "explore": "Explore How It Works"
+  },
+  "howItWorks": {
+    "title": "How TimeChain Works",
+    "individuals": "For Individuals",
+    "individualsDesc": "Earn Time Tokens (TT) by offering skills, spend them on services, or convert to fiat/crypto.",
+    "organizations": "For Organizations",
+    "organizationsDesc": "Hire talent for tasks using TT with automated matching and smart contracts.",
+    "communities": "For Communities",
+    "communitiesDesc": "Join a global skill-sharing economy with transparent, trustless exchanges."
+  },
+  "features": {
+    "title": "Why Choose TimeChain?",
+    "exchange": "Skill-for-Skill Exchange",
+    "exchangeDesc": "Trade hours of work, like coding for design.",
+    "hiring": "Protocol Hiring",
+    "hiringDesc": "Hire talent for tasks using Time Tokens.",
+    "tokens": "Dual-Token System",
+    "tokensDesc": "Use TT for labor and GT for governance.",
+    "reputation": "Reputation System",
+    "reputationDesc": "Build trust with skill verification and peer ratings.",
+    "discover": "Discover All Features"
+  },
+  "tokenomics": {
+    "title": "TimeChain Tokenomics",
+    "tt": "Time Token (TT)",
+    "ttDesc": "1 TT = 1 hour of work. Capped at 1M TT. Used for service exchanges and hiring.",
+    "gt": "Governance Token (GT)",
+    "gtDesc": "Earned by staking TT. Used for voting and premium features.",
+    "learnMore": "Learn More About Tokens"
+  },
+  "roadmap": {
+    "title": "Our Journey",
+    "q1": "Q1 2024: MVP Launch",
+    "q1Desc": "Core platform with wallet, TT exchange, and job listings.",
+    "q2": "Q2 2024: Pilot",
+    "q2Desc": "Test with 1,000 users and gather feedback.",
+    "q3": "Q3 2024: Scale",
+    "q3Desc": "Full KaiaChain integration and mobile-first features.",
+    "q4": "Q4 2024: Global",
+    "q4Desc": "Enhanced mobile app and partnerships with DAOs.",
+    "stayUpdated": "Stay Updated"
+  },
+  "community": {
+    "title": "Join Our Global Community",
+    "desc": "Connect with DAOs, DeFi protocols, and NGOs. Join our Discord or follow us on social media.",
+    "joinDiscord": "Join Discord",
+    "partner": "Partner with Us"
+  },
+  "jobListings": {
+    "title": "Browse Jobs",
+    "apply": "Apply Now"
+  },
+  "footer": {
+    "about": "About",
+    "features": "Features",
+    "tokenomics": "Tokenomics",
+    "roadmap": "Roadmap",
+    "blog": "Blog",
+    "builtOn": "Built on KaiaChain | Secured by Smart Contracts"
   }
 }

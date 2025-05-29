@@ -1,22 +1,25 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 import styles from '../styles/HowItWorks.module.css';
 
 function HowItWorks() {
+  const { t } = useTranslation();
+
   return (
     <section id="how-it-works" className={styles.section}>
-      <h2>How TimeChain Works</h2>
+      <h2>{t('howItWorks.title')}</h2>
       <div className={styles.grid}>
         <div className={styles.card}>
-          <h3>For Individuals</h3>
-          <p>Earn Time Tokens (TT) by offering skills, spend them on services, or convert to fiat/crypto.</p>
+          <h3>{t('howItWorks.individuals')}</h3>
+          <p>{t('howItWorks.individualsDesc')}</p>
         </div>
         <div className={styles.card}>
-          <h3>For Organizations</h3>
-          <p>Hire talent for tasks using TT with automated matching and smart contracts.</p>
+          <h3>{t('howItWorks.organizations')}</h3>
+          <p>{t('howItWorks.organizationsDesc')}</p>
         </div>
         <div className={styles.card}>
-          <h3>For Communities</h3>
-          <p>Join a global skill-sharing economy with transparent, trustless exchanges.</p>
+          <h3>{t('howItWorks.communities')}</h3>
+          <p>{t('howItWorks.communitiesDesc')}</p>
         </div>
       </div>
       <button className={styles.cta}>Join Now</button>

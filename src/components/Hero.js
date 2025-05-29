@@ -1,14 +1,17 @@
 import React from 'react';
+import { useTranslation } from 'react-i18next';
 import styles from '../styles/Hero.module.css';
 
 function Hero() {
+  const { t } = useTranslation();
+
   return (
     <section className={styles.hero}>
-      <h1>TimeChain: Empowering Skills, Not Wallets</h1>
-      <p>A decentralized platform where time is currency. Trade skills, earn Time Tokens, and join a global community.</p>
+      <h1>{t('hero.title')}</h1>
+      <p>{t('hero.subtitle')}</p>
       <div className={styles.buttons}>
-        <button className={styles.primary}>Get Started with TimeChain</button>
-        <button className={styles.secondary}>Explore How It Works</button>
+        <button className={styles.primary}>{t('hero.getStarted')}</button>
+        <button className={styles.secondary}>{t('hero.explore')}</button>
       </div>
     </section>
   );

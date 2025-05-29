@@ -20,9 +20,10 @@
   background-color: #F97316;
   color: #FFFFFF;
   border: none;
-  padding: 15px 30px;
+  padding: 10px 20px;
   border-radius: 5px;
   cursor: pointer;
+  margin-top: 10px;
 }
 
 @media (max-width: 768px) {

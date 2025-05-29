@@ -24,3 +24,9 @@
   border-radius: 5px;
   cursor: pointer;
 }
+
+@media (max-width: 768px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
